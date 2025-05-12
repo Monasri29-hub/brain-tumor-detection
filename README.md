@@ -24,7 +24,8 @@ This is a beginner-level deep learning project that uses Convolutional Neural Ne
 - ✅ Model Accuracy: ~90% on validation data
 - 🧠 Visualizations: Training accuracy/loss over epochs, predictions
 
-> 🔍 Add screenshots or sample predictions here if available
+> 🔍 ![image](https://github.com/user-attachments/assets/a8e3eff2-096f-4fa5-a50c-e546694250f5)
+
 
 ## 📦 Dataset Used
 
@@ -49,5 +50,5 @@ git clone https://github.com/yourusername/brain-tumor-detection.git
 
 🙋‍♂️ Author
 Developed by [KUNDETI MONASRI]
-📫 LinkedIn: []
+📫 LinkedIn: [https://www.linkedin.com/in/kundeti-monasri-3650ba326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 🧑‍💻 GitHub: []
