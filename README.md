@@ -14,7 +14,6 @@ This is a beginner-level deep learning project that uses Convolutional Neural Ne
 ## 🗂️ Repository Structure
 
 📁 brain-tumor-detection/
-│
 ├── brain_tumor_detection.ipynb # Main Jupyter notebook
 ├── brain_tumor_model.h5 # Saved Keras model
 └── README.md # Project overview
@@ -51,4 +50,4 @@ git clone https://github.com/yourusername/brain-tumor-detection.git
 🙋‍♂️ Author
 Developed by [KUNDETI MONASRI]
 📫 LinkedIn: [https://www.linkedin.com/in/kundeti-monasri-3650ba326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-🧑‍💻 GitHub: []
+🧑‍💻 GitHub: [Monasri29-hub]
