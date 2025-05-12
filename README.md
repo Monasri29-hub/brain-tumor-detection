@@ -9,7 +9,7 @@ This is a beginner-level deep learning project that uses Convolutional Neural Ne
 - 📚 Dataset: Brain MRI scans from Kaggle
 - 🛠️ Model: CNN with TensorFlow/Keras
 - 🎯 Goal: Classify images as tumor or no-tumor
-- 💾 Output: Trained model saved as `.h5`, and optionally exported to ONNX
+- 💾 Output: Trained model saved as `.h5`.
 
 ## 🗂️ Repository Structure
 
