@@ -41,13 +41,7 @@ Kaggle dataset:
 - Matplotlib
 
 ## 🛠️ How to Use
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/brain-tumor-detection.git
-
-
 🙋‍♂️ Author
-Developed by [KUNDETI MONASRI]
+Developed by [KUNDETI MONASRI] & [ORUGANTI SANIA MARY]
 📫 LinkedIn: [https://www.linkedin.com/in/kundeti-monasri-3650ba326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 🧑‍💻 GitHub: [Monasri29-hub]
